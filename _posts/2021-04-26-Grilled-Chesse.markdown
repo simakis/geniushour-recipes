@@ -1,9 +1,9 @@
 ---
 layout: post
-title:  "Grilled Chesse"
+title:  "Grilled Cheese"
 date:   2021-04-26 20:25:01 -0400
 categories: Personal
-permalink: Pesonal/GrilledChesse
+permalink: Pesonal/GrilledCheese
 ---
 ## _Ingredients_:
 - Any of your favorite cheese

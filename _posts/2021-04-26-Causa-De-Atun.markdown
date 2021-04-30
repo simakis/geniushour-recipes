@@ -3,7 +3,7 @@ layout: post
 title:  "Causa de Atun"
 date:   2021-04-26 20:25:01 -0400
 categories: jekyll update
-permalink: CausadeAtun
+permalink: Spanish/CausadeAtun
 ---
 ## _Ingredients_:
 
